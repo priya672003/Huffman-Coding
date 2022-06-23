@@ -1,4 +1,8 @@
-# Huffman-Coding
+### EX.NO : 12
+
+### DATE : 
+
+# <p align="center">  Huffman-Coding </p>
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
